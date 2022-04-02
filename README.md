@@ -2,7 +2,9 @@
 
 I'm interested in Programming and more in the specific in Artificial Intelligence.
 <br>
-I know C, Java and some Python and I'm currently studying, in the free time, Machine Learning techniques and how to apply them on Python.
+I know C, Java and some Python.
+<br>
+I'm currently studying, in the free time, Machine Learning techniques and how to apply them on Python.
 
 How to reach me: alessandro.poggi1903@gmail.com 
 
