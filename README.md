@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Alessandro Poggi 👋
+
+I'm interested in Programming and more in the specific in Artificial Intelligence.
+<br>
+I know C, Java and some Python and I'm currently studying, in the free time, Machine Learning techniques and how to apply them on Python.
+
+How to reach me: alessandro.poggi1903@gmail.com 
 
 <!--
 **Poggi19/Poggi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
