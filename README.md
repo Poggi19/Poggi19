@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: alessandro.poggi1903@gmail.com
 
-I'm interested in Programming and more in the specific in Artificial Intelligence and video games, but I also have experience in web development both front and back end.
+I'm interested in Programming and more specifically in Artificial Intelligence and video games, but I also have experience in web development both front and back end.
 <br>
-I know C, C++, Java, Python, PHP, HTML, CSS, Javascript.
-I'm currently studying Kotlin in my free time.
+I know C, C++, Java, Python, PHP, HTML, CSS, and Javascript. In my free time, I'm now trying to learn Kotlin.
 
 <!--
 **Poggi19/Poggi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
